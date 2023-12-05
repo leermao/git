@@ -3,7 +3,7 @@ name: null
 description: null
 model: gpt-3.5-turbo
 createdAt: 2023-12-05T04:09:04.068Z
-updatedAt: 2023-12-05T04:09:04.068Z
+updatedAt: 2023-12-05T04:10:38.631Z
 createdBy: z1UxQ2a7Pe4UHpwaFzpwvfcTsestKfQ7ecJ
 updatedBy: z1UxQ2a7Pe4UHpwaFzpwvfcTsestKfQ7ecJ
 pinnedAt: null
@@ -14,5 +14,5 @@ topP: 1
 presencePenalty: null
 frequencyPenalty: null
 maxTokens: null
-gitAutoSync: null
+gitAutoSync: true
 gitLastSyncedAt: null
