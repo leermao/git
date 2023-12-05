@@ -1,7 +1,7 @@
 name: Hello World1111111
 prompts:
   - id: "1"
-    content: Say hello in {{language}}!
+    content: Say hello in {{language}}!2222
     role: user
 parameters:
   language:
@@ -12,3 +12,6 @@ createdAt: 2023-09-30T12:23:04.603Z
 updatedAt: 2023-09-30T12:23:04.603Z
 public: false
 id: 20231205120904-HM-0_0
+description: "111"
+tags:
+  - "222"
