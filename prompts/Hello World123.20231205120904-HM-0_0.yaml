@@ -1,7 +1,7 @@
 name: Hello World123
 prompts:
   - id: "1"
-    content: Say hello in {{language}}!2222
+    content: Say hello in {{language}}!
     role: user
 parameters:
   language:
